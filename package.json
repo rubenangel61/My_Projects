@@ -1,0 +1,14 @@
+{
+  "name": "repository",
+  "version": "1.0.1",
+  "description": "First work in NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rubenangel rangelcorrea61@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^13.2.2"
+  }
+}
